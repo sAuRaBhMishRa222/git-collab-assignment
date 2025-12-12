@@ -1,0 +1,1 @@
+This is sample file that is used to commit any kind of changes in a github repository
